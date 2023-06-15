@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/chainverifier-web/static/js/main.ed4c8d76.js",
+    "main.js": "/chainverifier-web/static/js/main.e9cd32ec.js",
     "static/js/730.ed135bcd.chunk.js": "/chainverifier-web/static/js/730.ed135bcd.chunk.js",
     "index.html": "/chainverifier-web/index.html",
-    "main.ed4c8d76.js.map": "/chainverifier-web/static/js/main.ed4c8d76.js.map",
+    "main.e9cd32ec.js.map": "/chainverifier-web/static/js/main.e9cd32ec.js.map",
     "730.ed135bcd.chunk.js.map": "/chainverifier-web/static/js/730.ed135bcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ed4c8d76.js"
+    "static/js/main.e9cd32ec.js"
   ]
 }
